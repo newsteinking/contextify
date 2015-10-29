@@ -66,7 +66,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianmcd/contextify.git"
+    "url": "https://github.com/newsteinking/contextify.git"
   },
   "main": "./lib/contextify",
   "scripts": {
@@ -79,7 +79,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/brianmcd/contextify/blob/master/LICENSE.txt"
+      "url": "https://github.com/newsteinking/contextify.git"
     }
   ],
   "dependencies": {
@@ -92,14 +92,11 @@
   "gypfile": true,
   "gitHead": "1ed0631b435f6301986cc0890c36a29d5c55de97",
   "bugs": {
-    "url": "https://github.com/brianmcd/contextify/issues"
+    "url": "https://github.com/newsteinking/contextify/issues"
   },
-  "homepage": "https://github.com/brianmcd/contextify",
+  "homepage": "https://github.com/newsteinking/contextify",
   "_id": "contextify@0.1.14",
-  "_shasum": "923667123ba1b96657b9cbd1a8aeb5e8a86ea0da",
   "_from": "contextify@>=0.1.5 <0.2.0",
-  "_npmVersion": "2.7.4",
-  "_nodeVersion": "0.12.2",
   "_npmUser": {
     "name": "brianmcd",
     "email": "brianmcd05@gmail.com"
@@ -110,10 +107,6 @@
       "email": "brianmcd05@gmail.com"
     }
   ],
-  "dist": {
-    "shasum": "923667123ba1b96657b9cbd1a8aeb5e8a86ea0da",
-    "tarball": "http://registry.npmjs.org/contextify/-/contextify-0.1.14.tgz"
-  },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/contextify/-/contextify-0.1.14.tgz",
   "readme": "ERROR: No README data found!"
